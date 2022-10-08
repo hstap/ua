@@ -1,1 +1,2 @@
 https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt
+https://www.proxy-list.download/api/v1/get?type=socks5
